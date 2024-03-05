@@ -1,0 +1,6 @@
+{
+  "name": "b",
+  "devDependencies": {
+    "notifier": "^0.2.0"
+  }
+}
